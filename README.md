@@ -1,14 +1,14 @@
-# cartãozinho
+# Foto com texto
 
-Um mini site para personalizar cartões de aniversário com uma foto e até três mensagens.
+Um mini site para adicionar até três caixas de texto sobre uma foto.
 
 ## Como funciona
 
 - Aceita arquivos PNG de até 3 MB.
 - A foto é processada inteiramente no navegador e nunca é enviada ao servidor.
-- Texto pode ser editado, movido, colorido, redimensionado e removido.
+- Texto não é adicionado automaticamente. A pessoa pode criar, editar, mover, colorir, redimensionar e remover caixas de texto.
 - A imagem final é criada como PNG nas dimensões originais da foto.
-- Em navegadores com compartilhamento de arquivos, o botão abre a folha nativa de compartilhamento. Nos demais, baixa o PNG.
+- No desktop, o botão **Salvar** baixa o PNG. No celular, abre o compartilhamento nativo quando disponível; caso contrário, baixa o PNG.
 - Não há dependências, conta, analytics ou armazenamento de imagens.
 
 ## Publicação
